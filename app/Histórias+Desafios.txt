@@ -1,0 +1,136 @@
+﻿#HISTÓRIA 1
+*Desingualdade de genero
+*Machismo
+
+Meninas não tem que obrigatóriamente gostar de rosa, brincar com boneca e praticar ballet! Meninos podem gostar e fazer também.
+Meninos não tem que obrigatóriamente gostar de azul, jogar bola e não chorar! Meninas podem gostar e fazer isso também.
+Meninos e meninas podem gostar das mesmas coisas.
+Meninos podem brincar com coisas de meninas e vice-versa, isso não vai ser ruim para o desenvolvimento muito pelo contrário, a criança terá uma variedade bem maior de brinquedos!
+Legal né?
+Quantas possibilidades novas de brinquedos?! Sem falar nas brincadeiras!
+Os seus brinquedos e brincadeiras não definem quem você é ou e muito menos o que você é!
+A curiosidade e o faz de conta são importantes para o seu desenvolvimento, diferenciar meninos e meninas pelas brincadeiras pode limitar muitas aventuras legais que você poderia ter.
+Portanto, meninos e meninas podem e devem brincar com o que desejarem.
+
+#DESAFIO 1
+
+CARD 1 -
+Imagem: desafio1_card1
+Frase: Meninas não podem brincar com brinquedos de meninos!
+Resposta: F
+Explicação: Opa você errou! As meninas podem brincar com os brinquedos de meninos, assim como meninos podem brincar com brinquedos de meninas.
+
+CARD 2 -
+Imagem: desafio1_card2
+Frase: Meninos e meninas não podem gostar das mesmas coisas!
+Resposta: F
+Explicação: Opa você errou! Meninos e meninas podem sim gostar das mesmas coisas!
+
+CARD 3 -
+Imagem: desafio1_card3
+Frase: Meninas podem gostar de azul!
+Resposta: V
+Explicação: As meninas podem gostar de qualquer cor que quiserem, inclusive a cor azul!
+
+CARD 4 -
+Imagem: desafio1_card4
+Frase: Meninas podem jogar bola!
+Resposta: V
+Explicação: As meninas podem praticar qualquer esporte, inclusive jogar bola!
+
+CARD 5 -
+Imagem: desafio_card5
+Frase: Meninos podem brincar com bonecas!
+Resposta: V
+Explicação: Meninos podem brincar com qualquer brinquedo que eles queiram, inclusive bonecas.
+
+CARD 6 -
+Imagem: desafio_card6
+Frase: Meninos podem brincar com coisas de meninas e vice-versa!
+Resposta: V
+Explicação: Meninos e meninas podem sim brincar com qualquer coisa que eles queiram.
+
+
+#HISTÓRIA 2
+*Protagonismo feminino.
+*Generos de profissão
+
+
+Quando falamos ou pensamos em um cargo do tipo "cirurgã(o)" ou "executivo(a)" qual a imagem que vem em sua mente?
+Você provavelmente pensou em um pessoa do sexo masculino, isso ocorre pois é comum associarmos esses cargos a pessoas do sexo masculino. E  quando pensamos ou falamos em cargos como "cozinheiro(a)" ou "enfermeiro(a)"
+qual imagem vem a sua mente? Provavelmente você pensou em uma mulher! é comum ligarmos tais cargos a pessoas do sexo feminino. Mas porque isso acontece?
+Essa situação surgiu desde os principios da humanidade, onde o famoso "Homem das cavernas" ia caçar e sua esposa ficava na caverna cuidado dos afazeres domésticos, e assim durou por muito tempo, até a sua geração.
+ As mulheres por seu carater reprodutivo são muitas vezes definidas como seres frageis e incapazes de fazerem certos tipos de tarefas, como tarefas mais complicadas. Mas será que elas são mesmo? Existem trabalhos que
+mulheres não podem fazer?
+As mulheres não são esses seres fracos, elas podem assumir cargos altos, perigosos, complicados, elas podem ser o que quiserem ser.
+Uma grande conquista na direção da igualdade entre as mulheres e homens tem sido o aumento da participação da mulher no mercado de trabalho.
+Hoje podemos ver mulheres em cargos onde na maioria das vezes eram preenchidos por homens como na presidencia de um pais, de uma empresa.
+
+
+
+CARD 1 -
+Imagem: desafio2_card1
+Frase: Mulheres não podem assumir cargos importantes!
+Resposta: F
+Explicação: Ihh você errou! As mulheres podem e são capazes de assumir qualquer tipo de cargo!
+
+CARD 2 -
+Imagem: desafio2_card2
+Frase: Mulheres são incapazes de executarem certas tarefas!
+Resposta: F
+Explicação: Ihh você errou! As mulheres podem executar qualquer tipo de tarefa, basta elas quererem!
+
+
+CARD 3 -
+Imagem: desafio2_card3
+Frase: Mulheres podem preencher cargos altos, perigosos e complicados!
+Resposta: V
+Explicação: Mulheres podem  preencher qualquer tipo de cargos que elas desejem.
+
+CARD 4 -
+Imagem: desafio2_card4
+Frase: Mulheres estão participando do mercado de trabalho.
+Resposta: V
+Explicação: As mulheres estão cada vez participando mais do mercado de trabalho.
+
+CARD 5 -
+Imagem: desafio2_card5
+Frase: As mulheres podem ser o que quiserem, mas os homens não.
+Resposta: F
+Explicação: Ihh você errou! Assim como as mulheres os homens pode ser o que desejarem ser!
+
+
+#HISTÓRIA 3
+*Orientaçao Sexual
+*Diversidade de generos
+
+CARD 1 -
+Imagem:
+Frase:
+Resposta:
+Explicação:
+
+CARD 2 -
+
+Imagem:
+Frase:
+Resposta:
+Explicação:
+
+CARD 3 -
+Imagem:
+Frase:
+Resposta:
+Explicação:
+
+CARD 4 -
+Imagem:
+Frase:
+Resposta:
+Explicação:
+
+CARD 5 -
+Imagem:
+Frase:
+Resposta:
+Explicação:

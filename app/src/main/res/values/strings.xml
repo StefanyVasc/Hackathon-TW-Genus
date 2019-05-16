@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GENÜS</string>
+    <string name="title_activity_spash">SplashAct</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="feedback_success">Parabéns, você acertou!</string>
+    <string name="feedback_fail">Que pena, não foi dessa vez...</string>
+    <string name="end_stage_fail">Que pena... Não desista, tente novamente!</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
